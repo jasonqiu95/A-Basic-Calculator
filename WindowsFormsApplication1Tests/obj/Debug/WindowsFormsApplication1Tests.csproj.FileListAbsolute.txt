@@ -1,0 +1,9 @@
+\\tango\chenq9\WindowsFolders\MyDocs\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1Tests\bin\Debug\WindowsFormsApplication1Tests.dll
+\\tango\chenq9\WindowsFolders\MyDocs\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1Tests\bin\Debug\WindowsFormsApplication1Tests.pdb
+\\tango\chenq9\WindowsFolders\MyDocs\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\tango\chenq9\WindowsFolders\MyDocs\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1Tests\bin\Debug\WindowsFormsApplication1.exe
+\\tango\chenq9\WindowsFolders\MyDocs\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1Tests\bin\Debug\WindowsFormsApplication1.pdb
+\\tango\chenq9\WindowsFolders\MyDocs\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+\\tango\chenq9\WindowsFolders\MyDocs\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1Tests\obj\Debug\WindowsFormsApplication1Tests.csprojResolveAssemblyReference.cache
+\\tango\chenq9\WindowsFolders\MyDocs\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1Tests\obj\Debug\WindowsFormsApplication1Tests.dll
+\\tango\chenq9\WindowsFolders\MyDocs\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1Tests\obj\Debug\WindowsFormsApplication1Tests.pdb
